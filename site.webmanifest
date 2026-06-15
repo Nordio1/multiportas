@@ -1,0 +1,12 @@
+{
+  "name": "Casa das Portas | Multi Portas",
+  "short_name": "Casa das Portas",
+  "description": "Portas de madeira, caixilhos, batentes, guarnições, vistas, puxadores e ferragens em Curitiba.",
+  "lang": "pt-BR",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#130d09",
+  "theme_color": "#130d09",
+  "categories": ["business", "shopping", "home"]
+}

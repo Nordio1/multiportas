@@ -2,10 +2,11 @@
 <urlset
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
 >
   <url>
     <loc>https://nordio1.github.io/multiportas/</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -33,5 +34,13 @@
       <image:title>Caixilho de madeira</image:title>
       <image:caption>Caixilho de madeira para instalação de portas.</image:caption>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://nordio1.github.io/multiportas/images/multiportas-video-poster.webp</video:thumbnail_loc>
+      <video:title>Casa das Portas | Multi Portas em Curitiba</video:title>
+      <video:description>Vídeo da landing page da Casa das Portas | Multi Portas com portas de madeira, modelos para reforma, obra e acabamento em Curitiba e Região Metropolitana.</video:description>
+      <video:content_loc>https://nordio1.github.io/multiportas/videos/multiportas-portas-madeira-curitiba.mp4</video:content_loc>
+      <video:publication_date>2026-06-16T00:00:00-03:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nordio1.github.io/multiportas/sitemap.xml
+Sitemap: https://multiportas.curitiba.br/sitemap.xml

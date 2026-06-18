@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Host: multiportas.curitiba.br
 Sitemap: https://multiportas.curitiba.br/sitemap.xml

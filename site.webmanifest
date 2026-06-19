@@ -1,6 +1,6 @@
 {
-  "name": "Casa das Portas | Multi Portas",
-  "short_name": "Casa das Portas",
+  "name": "Multi Portas",
+  "short_name": "Multi Portas",
   "description": "Portas de madeira, caixilhos, puxadores, fechaduras e ferragens em Curitiba.",
   "lang": "pt-BR",
   "start_url": "/",
@@ -8,5 +8,17 @@
   "display": "standalone",
   "background_color": "#130d09",
   "theme_color": "#130d09",
-  "categories": ["business", "shopping", "home"]
+  "categories": ["business", "shopping", "home"],
+  "icons": [
+    {
+      "src": "/icons/multi-portas-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/multi-portas-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }

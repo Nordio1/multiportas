@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Casa das Portas">
-  <rect width="64" height="64" rx="8" fill="#130d09"/>
-  <path d="M20 12h27v40H20z" fill="#b06a2f"/>
-  <path d="M24 16h19v32H24z" fill="#6f261f"/>
-  <path d="M28 20h11v24H28z" fill="#c98c45"/>
-  <circle cx="40" cy="33" r="2" fill="#fff4df"/>
-  <path d="M16 52h34" stroke="#d4a75d" stroke-width="4" stroke-linecap="round"/>
-</svg>

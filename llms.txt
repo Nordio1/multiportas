@@ -14,6 +14,10 @@ Produtos e temas principais:
 - Portas internas e externas
 - Porta pivotante
 - Porta de correr
+- Modelos diagonal, mexicana e tijolinho
+- Portas fundo UV lisas e frisadas
+- Portas imbuia lisa, mogno liso, mogno frisado e pinus
+- Modelos REF 100, REF 105, REF 150 e REF 1445
 - Caixilhos e batentes de madeira
 - Vistas e guarnições para portas
 - Puxadores, fechaduras, dobradiças e ferragens para portas

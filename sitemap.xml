@@ -2,27 +2,26 @@
 <urlset
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
 >
   <url>
     <loc>https://multiportas.curitiba.br/</loc>
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://multiportas.curitiba.br/images/showroom-multiportas-curitiba.webp</image:loc>
-      <image:title>Showroom Multi Portas em Curitiba</image:title>
-      <image:caption>Portas de madeira, caixilhos, batentes, guarnições, puxadores, fechaduras e ferragens em Curitiba.</image:caption>
+      <image:loc>https://multiportas.curitiba.br/images/oferta-portas-mogno-multi-portas-2172.webp</image:loc>
+      <image:title>Oferta de portas padrão mogno em Curitiba</image:title>
+      <image:caption>Portas acabadas padrão mogno e imbuia da Multi Portas para Curitiba e Região Metropolitana.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://multiportas.curitiba.br/images/portas-acabadas-mogno-multi-portas-1122.webp</image:loc>
+      <image:title>Portas acabadas padrão mogno e imbuia</image:title>
+      <image:caption>Campanha Multi Portas de portas prontas para uso em Curitiba e Região Metropolitana.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://multiportas.curitiba.br/images/multiportas-portas-madeira-curitiba.webp</image:loc>
       <image:title>Multi Portas de Madeira Curitiba</image:title>
       <image:caption>Modelos internos, externos, pivotantes e de correr para Curitiba e Região Metropolitana.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://multiportas.curitiba.br/images/portas-madeira-caixilhos-curitiba.webp</image:loc>
-      <image:title>Portas de madeira e caixilhos Curitiba</image:title>
-      <image:caption>Campanha Multi Portas para reformas, obras e acabamento.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://multiportas.curitiba.br/images/porta-pivotante-madeira.webp</image:loc>
@@ -34,14 +33,6 @@
       <image:title>Caixilho de madeira</image:title>
       <image:caption>Caixilho de madeira para instalação de portas.</image:caption>
     </image:image>
-    <video:video>
-      <video:thumbnail_loc>https://multiportas.curitiba.br/images/multiportas-video-poster.webp</video:thumbnail_loc>
-      <video:title>Multi Portas em Curitiba</video:title>
-      <video:description>Vídeo da landing page da Multi Portas com portas de madeira, modelos para reforma, obra e acabamento em Curitiba e Região Metropolitana.</video:description>
-      <video:content_loc>https://multiportas.curitiba.br/videos/multiportas-portas-madeira-curitiba.mp4</video:content_loc>
-      <video:publication_date>2026-06-16T00:00:00-03:00</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
   </url>
   <url>
     <loc>https://multiportas.curitiba.br/politica-de-privacidade.html</loc>

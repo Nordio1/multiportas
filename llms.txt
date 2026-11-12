@@ -12,7 +12,7 @@ Medidas, composição, disponibilidade, frete e condições comerciais devem ser
 - [Categorias de produtos](https://multiportas.curitiba.br/produtos/): Portas de madeira, caixilhos, batentes e ferragens.
 - [Modelos de portas de madeira](https://multiportas.curitiba.br/produtos/portas-de-madeira/): Dados para comparar os modelos fotografados no catálogo.
 - [Caixilhos, batentes e vistas](https://multiportas.curitiba.br/produtos/caixilhos-e-batentes/): Estrutura da abertura, medidas e componentes.
-- [Fechaduras, puxadores e ferragens](https://multiportas.curitiba.br/produtos/ferragens/): Compatibilidade e informações para consulta.
+- [Fechaduras e ferragens](https://multiportas.curitiba.br/produtos/ferragens/): Compatibilidade e informações para consulta.
 - [Portas padrão mogno lisas e frisadas](https://multiportas.curitiba.br/portas-padrao-mogno-curitiba/): Fotos, acabamento e critérios para comparar o pedido.
 - [Catálogo de portas](https://multiportas.curitiba.br/#modelos): Modelos, padrões e fotografias originais.
 - [Tipos de abertura](https://multiportas.curitiba.br/#como-escolher): Portas de abrir, de correr, camarão e pivotantes.
